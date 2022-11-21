@@ -306,7 +306,7 @@ nav .fa-solid{
 @media only screen and (max-width: 600px){
     
     #header{
-    background-image: url(/src/assets/Sans\ titre.png);
+    background-image: url(/assets/Sans\ titre.png);
     width: 133%;
     height: 100vh;
    
@@ -339,7 +339,7 @@ nav .fa-solid{
     width: 200px;
     height: 100vh;
     padding-top: 50px;
-    z-index: 1000000;
+    z-index: 2;
     transition: left 0.5s;
     }
     nav ul li{
